@@ -1,0 +1,8 @@
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\bin\Release\my_SuperTTS.exe
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\bin\Release\my_SuperTTS.pdb
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Release\ResolveAssemblyReference.cache
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Release\my_SuperTTS.mainSuperTTS.resources
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Release\my_SuperTTS.Properties.Resources.resources
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Release\my_SuperTTS.csproj.GenerateResource.Cache
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Release\my_SuperTTS.exe
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Release\my_SuperTTS.pdb
