@@ -1,0 +1,16 @@
+D:\ddqre\work_SR\变声变调\my_TTS\my_SuperTTS\my_SuperTTS\bin\Debug\my_SuperTTS.exe
+D:\ddqre\work_SR\变声变调\my_TTS\my_SuperTTS\my_SuperTTS\bin\Debug\my_SuperTTS.pdb
+D:\ddqre\work_SR\变声变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\ResolveAssemblyReference.cache
+D:\ddqre\work_SR\变声变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.mainSuperTTS.resources
+D:\ddqre\work_SR\变声变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.Properties.Resources.resources
+D:\ddqre\work_SR\变声变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.csproj.GenerateResource.Cache
+D:\ddqre\work_SR\变声变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.exe
+D:\ddqre\work_SR\变声变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.pdb
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.exe
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.pdb
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\bin\Debug\my_SuperTTS.exe
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\bin\Debug\my_SuperTTS.pdb
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\ResolveAssemblyReference.cache
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.mainSuperTTS.resources
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.Properties.Resources.resources
+D:\ddqre\work_SR\TTS+变速变调\my_TTS\my_SuperTTS\my_SuperTTS\obj\Debug\my_SuperTTS.csproj.GenerateResource.Cache
