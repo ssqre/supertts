@@ -41,9 +41,14 @@ namespace my_SuperTTS
                 p.StartInfo.Arguments = "original.wav" + " " + "destination.wav" + " " + "-tempo="
                     + trackBarSpeed.Value.ToString() + " " + "-pitch=" + trackBarPitch.Value.ToString();
                 p.Start();
+
+                /*
                 while (!p.HasExited)
                 {
                 }
+                */
+                p.WaitForExit();//和while的作用一样，等待子进程执行完毕
+                
                 
                 SoundPlayer soundplayer = new SoundPlayer(Application.StartupPath + @"/destination.wav");
                 soundplayer.Play();
